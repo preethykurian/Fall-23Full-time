@@ -1,3 +1,5 @@
 read price1, price 2
 find total =price 1 +price2
 print total
+if total is greater than 500 give 10% discount 
+else no discount
